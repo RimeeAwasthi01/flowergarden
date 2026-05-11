@@ -70,15 +70,13 @@ Checks if all fields are filled before submission.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Rimee Awasthi**  
 Web Developer
 
 ---
 
-## ⭐ If you like this project
-
+If you like this project,
 Feel free to star ⭐ the repository and use it for learning purposes.
-```
 
