@@ -50,26 +50,6 @@ https://rimeeawasthi01.github.io/flowergarden/
 
 ---
 
-## 📁 Project Structure
-flowergarden/
-│
-├── index.html
-├── about.html
-│
-├── css/
-│ ├── style.css
-│ ├── about.css
-│
-├── js/
-│ └── script.js
-│
-├── images/
-│ ├── logo.jpg
-│ ├── home.jpg
-│ └── other assets
-
----
-
 ##  Functionalities
 
 ### Order Button
@@ -102,4 +82,3 @@ Web Developer
 Feel free to star ⭐ the repository and use it for learning purposes.
 ```
 
----
