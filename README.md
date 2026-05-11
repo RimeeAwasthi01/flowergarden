@@ -12,13 +12,18 @@ https://rimeeawasthi01.github.io/flowergarden/
 
 ## 📸 Project Preview
 
-*(Add screenshots here after upload)*
+### Home Page
+![Home](images/screenshots/homepage.png)
 
-- Home Page  
-- Services Section  
-- Flower Types  
-- Contact Form  
-- About Page  
+### Services
+![Services](images/screenshots/service1.png)
+![Services](images/screenshots/service2.png)
+
+### Contact
+![Contact](images/screenshots/contact.png)
+
+### About
+![About](images/screenshots/about.png)
 
 ---
 
